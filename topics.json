@@ -1,0 +1,16 @@
+{
+  "trending_topics": [
+    "TikTok", 
+    "Discord", 
+    "CapCut", 
+    "Photoshop", 
+    "Notion", 
+    "Instagram"
+  ],
+  "search_prefixes": [
+    "how to *",
+    "what is *",
+    "best way to *",
+    "why *"
+  ]
+}
