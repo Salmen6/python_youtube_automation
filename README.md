@@ -63,17 +63,18 @@ Workflow Diagram
 🧱 Project Structure
 
 youtube_automation/
-├── main.py # Orchestration + scheduler
-├── scraper.py # Keyword discovery logic
-├── analyzer.py # Clustering, scoring, filtering
-├── google_sheets.py # Persistence + backups
-├── topics.json # Config file
-├── requirements.txt # Dependencies
-├── setup.py # Packaging info
+├── main.py           # Orchestration + scheduler
+├── scraper.py        # Keyword discovery logic
+├── analyzer.py       # Clustering, scoring, filtering
+├── google_sheets.py  # Persistence + backups
+├── topics.json       # Config file
+├── requirements.txt  # Dependencies
+├── setup.py          # Packaging info
 └── content/
-├── script_gen.py # Metadata generation (GPT)
-├── voiceover.py # ElevenLabs TTS
-└── thumbnail.py # Canva API integration
+    ├── script_gen.py  # Metadata generation (GPT)
+    ├── voiceover.py   # ElevenLabs TTS
+    └── thumbnail.py   # Canva API integration
+
 
 
 ⚙️ Minimal Setup
@@ -108,7 +109,7 @@ New modules, optimizations, and UI dashboards may be added later.
 
 🧑‍💻 Credits
 
-Created by Salmeen.  
+Created by Salmen Makki.   
 Open to contributions, suggestions, and improvements.
 
 📜 License
