@@ -77,7 +77,7 @@ youtube_automation/
     ├── voiceover.py   # ElevenLabs TTS
     └── thumbnail.py   # Canva API integration
 
-
+```
 
 ⚙️ Minimal Setup
 
