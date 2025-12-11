@@ -60,8 +60,10 @@ Workflow Diagram
 - Includes backup logging to backup_data.json
 - Ideal for tracking daily content opportunities
 
+
 🧱 Project Structure
 
+```text
 youtube_automation/
 ├── main.py           # Orchestration + scheduler
 ├── scraper.py        # Keyword discovery logic
