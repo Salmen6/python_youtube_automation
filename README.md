@@ -83,7 +83,10 @@ youtube_automation/
 
 Install dependencies:
 
+```text
 pip install -r requirements.txt
+
+```
 Add your API keys (OpenAI, ElevenLabs, YouTube Data, Google, Canva).  
 Place your topics.json into the root directory.  
 
