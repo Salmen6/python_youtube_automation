@@ -16,7 +16,7 @@ Whether you want to extend it, integrate additional AI models, or simply underst
 
 Workflow Diagram
 
-<img width="1308" height="2776" alt="automation" src="https://github.com/user-attachments/assets/d1b33819-31b4-479f-bf6e-4e5222b90af9" />
+<img src="https://github.com/user-attachments/assets/d1b33819-31b4-479f-bf6e-4e5222b90af9" width="600" height="1275" />
 
 ✨ Features
 🔍 Smart Keyword Discovery
